@@ -1,0 +1,1 @@
+$data modify storage $(namespace) $(ptreq_ptr) set from storage $(namespace) $(ptreq_val)

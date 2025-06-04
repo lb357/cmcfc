@@ -1,0 +1,1 @@
+return run random roll 0..214748
