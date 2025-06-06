@@ -4,7 +4,7 @@ CMCFC is compiler/translator from C to MCFunction (Minecraft Datapacks)
 > Early stage of development.
 
 ## Usage
-CMCFC creates minecraft datapack that can be assembled from C code.
+CMCFC creates minecraft datapack that can be assembled from C code
 See `python main.py --help`
 
 ## Features
@@ -14,7 +14,7 @@ List of features:
   - [x] compiler
   - [x] linker (Datapack manager)
 - [ ] Types
-  - [x] simple datatypes: int, float, dummy
+  - [x] simple datatypes: int, float, double
   - [x] simple pointers
   - [x] arrays
   - [x] functions
