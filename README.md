@@ -1,7 +1,7 @@
 # CMCFC
 CMCFC is compiler/translator from C to MCFunction (Minecraft Datapacks)
 > [!WARNING]
-> At a very early stage of development.
+> Early stage of development.
 
 ## Usage
 CMCFC creates minecraft datapack that can be assembled from C code.
